@@ -4,8 +4,8 @@ This is a demo portfolio made using HTML and CSS with the help of LinkedIn Learn
 
 ## Netlify Link
 
-### Netlify[]
+### [Netlify](https://css-demo-portfolio-linkedin-learning.netlify.app/)
 
 ## Github Page Link
 
-### Github page[]
+### [Github page](https://rahat-kibria.github.io/css-portfolio-linkedin-learning/)
